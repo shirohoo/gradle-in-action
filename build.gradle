@@ -5,8 +5,8 @@ plugins {
 }
 
 application {
-    mainModule = 'io.github.shirohoo.gradle'
-    mainClass = 'io.github.shirohoo.gradle.Application'
+    mainModule = 'io.github.shirohoo.fx'
+    mainClass = 'io.github.shirohoo.fx.FxApplication'
 }
 
 javafx {
