@@ -1,7 +1,0 @@
--classpath '/Users/shirohoo/Projects/intellij/gradle-in-action/build/classes/java/main:/Users/shirohoo/Projects/intellij/gradle-in-action/build/resources/main'
--d '/Users/shirohoo/Projects/intellij/gradle-in-action/build/docs/javadoc'
--doctitle 'gradle-in-action API'
--notimestamp 
--quiet 
--windowtitle 'gradle-in-action API'
-'/Users/shirohoo/Projects/intellij/gradle-in-action/src/main/java/io/github/shirohoo/Calculator.java'

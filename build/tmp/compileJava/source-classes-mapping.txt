@@ -1,2 +1,0 @@
-io/github/shirohoo/Calculator.java
- io.github.shirohoo.Calculator
